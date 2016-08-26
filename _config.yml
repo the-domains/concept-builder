@@ -1,0 +1,14 @@
+layout_spectrum: 0.6073782669845968
+typography_spectrum: 0.14872598927468061
+color:
+  brandStrength: 0.447311487281695
+  lightness: 0.06548561132512987
+  saturation: 0.6456797511782497
+  rhythmicContrast: 0.5501475650817156
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: Concept Builder
